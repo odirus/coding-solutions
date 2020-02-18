@@ -1,6 +1,7 @@
 # README #
 
-在线编程，解决方案
+### 项目状态 ###
+[![Build Status](https://travis-ci.com/odirus/coding-solutions.svg?branch=master)](https://travis-ci.com/odirus/coding-solutions)
 
 ### 问题列表 ###
 | Title | Solution |
