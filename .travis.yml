@@ -9,7 +9,7 @@ jdk:
 
 script:
   - cd java
-  - mvn clean test
+  - mvn clean test coveralls:report
 
 cache:
   directories:
